@@ -36,7 +36,7 @@ Other tools I use daily include VSCode, Docker, and Git.
 
 I firmly believe that creativity is the key to solving complex problems. I strive to live every day with a "problem solver" mindset, tackling challenges with determination and a hint of eccentricity!
 
-> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." – Riccardo
+> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." – Bill Gates
 
 ---
 
