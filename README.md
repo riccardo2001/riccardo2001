@@ -19,6 +19,7 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
@@ -38,7 +39,8 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 I firmly believe that creativity is the key to solving complex problems. I strive to live every day with a "problem solver" mindset, tackling challenges with determination and a hint of eccentricity!
 
-> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." – Bill Gates
+> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
+> – Bill Gates
 
 ---
 
