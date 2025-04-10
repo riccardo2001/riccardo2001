@@ -24,6 +24,7 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![AS400-DB2](https://img.shields.io/badge/as400-db2-00C853?style=flat-square&logo=ibm&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
