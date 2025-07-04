@@ -16,15 +16,22 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 ## 🛠️ Technologies and Tools
 
+#### 🔤 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
+
+#### 🗄️ Database
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![AS400-DB2](https://img.shields.io/badge/as400-db2-00C853?style=flat-square&logo=ibm&logoColor=white&labelColor=000000)
+
+#### ⚙️ DevOps
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
+
+#### 🧰 Others
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
