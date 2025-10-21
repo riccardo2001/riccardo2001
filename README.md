@@ -25,7 +25,7 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 #### 🗄️ Database
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![SQL-server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=ibm&logoColor=white)
+![SQL-server](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=red)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![AS400-DB2](https://img.shields.io/badge/as400-db2-00C853?style=flat-square&logo=ibm&logoColor=white&labelColor=000000)
 
