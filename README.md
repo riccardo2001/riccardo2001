@@ -31,6 +31,7 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 #### ⚙️ DevOps
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 #### 🧰 Others
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
