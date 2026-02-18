@@ -1,16 +1,15 @@
-# Hi, I'm Riccardo!
+# Hi, I'm Riccardo! 👋 
+> [**Explore my Portfolio**](https://website.riklupo2001.workers.dev/) • [**Get in touch**](mailto:riklupo2001@gmail.com)
 
-Welcome to my universe of code, creativity, and innovation!
+Welcome to my universe of code, creativity, and innovation! 
 
 ---
 
 ## 🚀 Who I Am
 
-My name is **Riccardo** and I'm a developer passionate about technology, video games, and lots of coffee! I love exploring new programming languages and technologies, experimenting with innovative solutions, and sharing my discoveries with the community.
+My name is **Riccardo** and I'm a developer passionate about technology, video games, and lots of coffee! ☕
 
-- 🔥 **Developer & Coder**
-- 🎮 **Gamer**
-- 🌐 **Tech Enthusiast**
+- 🔥 **Developer & Coder** | 🎮 **Gamer** | 🌐 **Tech Enthusiast**
 
 ---
 
@@ -24,7 +23,6 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
       <sub><b>Enterprise:</b> Microservices, Apache Camel, Jetty, Flow Orchestration.</sub>
     </td>
   </tr>
-  
   <tr>
     <td width="20%" valign="top"><b>Database</b></td>
     <td width="80%">
@@ -32,15 +30,13 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
       <sub><b>Legacy Integration:</b> DB2 / AS400, SQL Server.</sub>
     </td>
   </tr>
-
   <tr>
     <td width="20%" valign="top"><b>Frontend</b></td>
     <td width="80%">
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite" /><br>
-      <sub><b>Modern UI:</b> SPA, Type-safety, SSR (Next.js).</sub>
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,cloudflare" /><br>
+      <sub><b>Modern UI:</b> SPA, Type-safety, SSR (Next.js), Workers.</sub>
     </td>
   </tr>
-
   <tr>
     <td width="20%" valign="top"><b>DevOps &<br>Infra</b></td>
     <td width="80%">
@@ -52,25 +48,8 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 ---
 
-## 🎉 What You'll Find on This Profile
+### 📊 Activity & Stats
 
-- **Personal Repositories:** Projects that I have built from scratch.
-- **Open Source Contributions:** Collaborations with the community to improve software.
-
----
-
-## 🌈 My Style
-
-I firmly believe that creativity is the key to solving complex problems. I strive to live every day with a "problem solver" mindset, tackling challenges with determination and a hint of eccentricity!
-
-> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
-> – Bill Gates
-
----
-
-Feel free to explore and reach out if you want to collaborate on any projects or just have a chat about technology!
-
----
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riccardo2001&theme=tokyo-night)
 
 <p align="center">
@@ -78,7 +57,12 @@ Feel free to explore and reach out if you want to collaborate on any projects or
   <img height="180em" src="https://github-readme-stats-eight-blue-57.vercel.app/api/top-langs/?username=riccardo2001&layout=compact&theme=tokyonight&langs_count=8&count_private=true&v=1" />
 </p>
 
+---
 
+## 🌈 My Style
+> "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." – Bill Gates
 
-
-
+---
+<p align="center">
+  Fatto con il ☕ da Riccardo
+</p>
