@@ -55,3 +55,16 @@ I firmly believe that creativity is the key to solving complex problems. I striv
 ---
 
 Feel free to explore and reach out if you want to collaborate on any projects or just have a chat about technology!
+
+---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riccardo2001&theme=tokyo-night)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-blue-57.vercel.app/api?username=riccardo2001&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-blue-57.vercel.app/api/top-langs/?username=riccardo2001&layout=compact&theme=tokyonight&langs_count=8&count_private=true" />
+</p>
+
+
+
+
+
