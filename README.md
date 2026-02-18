@@ -64,5 +64,5 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 ---
 <p align="center">
-  Fatto con il ☕ da Riccardo
+  Made with ☕ by me
 </p>
