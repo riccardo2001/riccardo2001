@@ -14,27 +14,41 @@ My name is **Riccardo** and I'm a developer passionate about technology, video g
 
 ---
 
-## 🛠️ Technologies and Tools
+### 🛠️ Tech Stack & Ecosystem
 
-#### 🔤 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
-![React](https://shields.io/badge/react-black?logo=react&style=flat-square&logoColor=white)
+<table>
+  <tr>
+    <td width="20%" valign="top"><b>Backend &<br>Integration</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=java,maven,kafka,keycloak" /><br>
+      <sub><b>Enterprise:</b> Microservices, Apache Camel, Jetty, Flow Orchestration.</sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="20%" valign="top"><b>Database</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" /><br>
+      <sub><b>Legacy Integration:</b> DB2 / AS400, SQL Server.</sub>
+    </td>
+  </tr>
 
-#### 🗄️ Database
-![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![SQL-server](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=red)
-![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![AS400-DB2](https://img.shields.io/badge/as400-db2-00C853?style=flat-square&logo=ibm&logoColor=white&labelColor=000000)
+  <tr>
+    <td width="20%" valign="top"><b>Frontend</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite" /><br>
+      <sub><b>Modern UI:</b> SPA, Type-safety, SSR (Next.js).</sub>
+    </td>
+  </tr>
 
-#### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-
-#### 🧰 Others
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <tr>
+    <td width="20%" valign="top"><b>DevOps &<br>Infra</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" /><br>
+      <sub><b>Lifecycle:</b> CI/CD Pipelines, Containerization, Branching Strategies.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
